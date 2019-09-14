@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568451374 source:d:\sean\파일 저장소\프로그램\c프로젝트\qmcc\ai_gomoku\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
